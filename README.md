@@ -20,6 +20,7 @@ I specialize in crafting seamless user experiences with a keen focus on performa
 Let's connect and collaborate! Feel free to reach out via:
 - **GitHub:** [https://github.com/ahteshamniqosa]
 - **LinkedIn:** [https://www.linkedin.com/in/ahtisham-hussain-5b920533b/]
+- - **Portfolio:** [https://ahti-portfolio-2025.vercel.app/]
 
 Looking forward to building innovative web experiences together! 🚀
 
